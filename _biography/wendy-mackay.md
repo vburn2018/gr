@@ -24,4 +24,4 @@ gallery:
 
 {% include_relative bio-mackay.md %}
 
-{% include slides.html caption="Εικόνες για την βιογραφία του Αλαν Κεη" %}
+{% include slides.html caption="Εικόνες για την βιογραφία της Wendy MacKay" %}
