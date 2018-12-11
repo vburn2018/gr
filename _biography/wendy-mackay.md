@@ -16,10 +16,8 @@ tags:
 gallery:
   - image_url: /images/interactive-paper.png
     caption: "Interactive paper. Ψηιφιοποίηση χειρόγραφων μουσικών σημειώσεων με χρήση εδικού χαρτιού."
-  - image_url: /images/alan-kay.jpg
-    caption: "Alan Kay in front of a Xerox Alto and a piano"
-  - image_url: /images/smalltalk.jpg
-    caption: 'Η αντικειμενοστραφής γλώσσα προγραμματισμού Smalltalk είχε έμφαση σε οντότητες υψηλού επιπέδου και στην διάδραση με τον χρήστη και έτσι διευκόλυνε την κατασκευή και τις δοκιμές του λογισμικού που τελικά οδήγησε στους πρώτους επιτυχημένους εμπορικά επιτραπέζιους υπολογιστές'
+  - image_url: /images/stretchis.jpg
+    caption: "Michael Wessely, Theophanis Tsandilas, and Wendy E. Mackay (2016). Stretchis: Πολύ ελαστικά User Interfaces."
 ---
 
 {% include_relative bio-mackay.md %}
