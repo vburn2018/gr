@@ -1,13 +1,13 @@
 ---
-author: epidrome
-title: "Alan Kay"
-image_url: /images/alan-kay.jpg
+author: vburn2018
+title: "Wendy MacKay"
+image_url: /images/wendy-mackay.jpg
 caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
 categories:
   - biography
   - definition
 tags:
-  - Alan Kay
+  - Wendy MacKay
   - Ivan Sutherland
   - Bret Victor
   - Dynabook
