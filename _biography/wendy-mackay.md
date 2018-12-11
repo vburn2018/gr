@@ -2,7 +2,7 @@
 author: vburn2018
 title: "Wendy MacKay"
 image_url: /images/wendy-mackay.jpg
-caption: "Η Wendy Elizabeth Mackay, μαζί με τους συναδέλφους της στο EuroPARC της Xerox, ξεκίνησε την περιοχή του διάχυτου υπολογισμού, εισήγαγε την έννοια των επαυξημένων διεπαφών χαρτιού και ερεύνησε την ενσωμάτωση του χαρτιού στις online πολυμεσικές πληροφορίες."
+caption: "Η Wendy Elizabeth Mackay, μαζί με τους συναδέλφους της στο EuroPARC της Xerox, ξεκίνησε την περιοχή του διάχυτου υπολογισμού, εισήγαγε την έννοια των επαυξημένων διεπαφών χαρτιού και ερεύνησε την ενσωμάτωση του χαρτιού στις online πολυμεσικές εφαρμογές."
 categories:
   - biography
   - definition
