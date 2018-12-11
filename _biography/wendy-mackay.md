@@ -2,17 +2,17 @@
 author: vburn2018
 title: "Wendy MacKay"
 image_url: /images/wendy-mackay.jpg
-caption: "O Alan Kay οραματίστηκε το Dynabook και δημιούργησε λογισμικό που διευκολύνει τα παιδιά να μάθουν να σκέφτονται μαζί με τους υπολογιστές"
+caption: "Η Wendy Elizabeth Mackay, μαζί με τους συναδέλφους της στο EuroPARC της Xerox, ξεκίνησε την περιοχή του διάχυτου υπολογισμού, εισήγαγε την έννοια των επαυξημένων διεπαφών χαρτιού και ερεύνησε την ενσωμάτωση του χαρτιού στις online πολυμεσικές πληροφορίες."
 categories:
   - biography
   - definition
 tags:
   - Wendy MacKay
-  - Ivan Sutherland
-  - Bret Victor
-  - Dynabook
-  - Smalltalk
-  - Xerox Alto
+  - Michel Beaudouin-Lafon
+  - Augmented Paper
+  - Human-Computer Interaction
+  - EuroPARC
+  - INRIA
 gallery:
   - image_url: /images/dynabook.png
     caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
