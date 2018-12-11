@@ -14,8 +14,8 @@ tags:
   - EuroPARC
   - INRIA
 gallery:
-  - image_url: /images/dynabook.png
-    caption: "Το Dynabook είναι ένα σχεδιαστικό όραμα του 1968 για ένα φορητό υπολογιστή τύπου τάμπλετ από τον Alan Kay που απευθύνεται σε παιδιά και μπορεί να προγραμματιστεί με στόχο την προσωπική έκφραση και την επεξεργασία της πληροφορίας"
+  - image_url: /images/interactive-paper.png
+    caption: "Interactive paper. Ψηιφιοποίηση χειρόγραφων μουσικών σημειώσεων με χρήση εδικού χαρτιού."
   - image_url: /images/alan-kay.jpg
     caption: "Alan Kay in front of a Xerox Alto and a piano"
   - image_url: /images/smalltalk.jpg
